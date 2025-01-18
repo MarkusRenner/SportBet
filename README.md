@@ -160,7 +160,7 @@ Follow these steps to set up the project on your local machine:
 4. Execute preprocessing and training scripts:
     <br>
     <span style="color: red">preprocessing.ipynb</span>  
-    <span style="color: red">model_training.ipynb</span>  
+    <span style="color: red">regression_training.ipynb</span>  
 
 ## Data 
 - Find the scraped dataset of NBA stats in the `data` directory.
